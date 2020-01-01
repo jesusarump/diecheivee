@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://meapusiew.craigy.co.uk/sitemap.xml
